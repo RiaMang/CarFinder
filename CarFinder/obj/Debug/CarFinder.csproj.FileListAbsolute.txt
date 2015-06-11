@@ -1,0 +1,6 @@
+C:\Users\Ria\Documents\GitHub\CarFinder\CarFinder\bin\CarFinder.dll.config
+C:\Users\Ria\Documents\GitHub\CarFinder\CarFinder\bin\CarFinder.dll
+C:\Users\Ria\Documents\GitHub\CarFinder\CarFinder\bin\CarFinder.pdb
+C:\Users\Ria\Documents\GitHub\CarFinder\CarFinder\obj\Debug\CarFinder.csprojResolveAssemblyReference.cache
+C:\Users\Ria\Documents\GitHub\CarFinder\CarFinder\obj\Debug\CarFinder.dll
+C:\Users\Ria\Documents\GitHub\CarFinder\CarFinder\obj\Debug\CarFinder.pdb
